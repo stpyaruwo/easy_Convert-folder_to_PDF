@@ -8,6 +8,7 @@ Mac標準のAutomaterで作成したフォルダの中の画像ファイルを�
 ```
 cd ~/Library/Services
 git clone https://github.com/stpyaruwo/easy_Convert-folder_to_PDF.git .
+
 ```
 
 インストール後、指定のフォルダを右クリックし、サービスを選択するだけで、デスクトップにPDFファイルが出来上がります。
